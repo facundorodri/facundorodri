@@ -1,5 +1,9 @@
-### Hi there 👋
-
+###
+```python
+print("Hello word!") 
+```
+## Mi nombre es Facu :ski::snowflake:
+Y estudio en la Universidad Nacional de Rio Negro
 <!--
 **facundorodri/facundorodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
